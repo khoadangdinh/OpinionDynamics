@@ -1,1 +1,1 @@
-# OpinionSynamics
+# OpinionDynamics
